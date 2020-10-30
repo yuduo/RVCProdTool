@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>image/iconSW.png</file>
+        <file>image/rootBg.png</file>
+        <file>image/rootBg2.png</file>
+        <file>image/factory.png</file>
+        <file>image/fw_dev.png</file>
+        <file>image/fw_version.png</file>
+        <file>image/iconAbout.png</file>
+        <file>image/iconCom.png</file>
+        <file>image/iconFiles.png</file>
+        <file>image/iconServer.png</file>
+        <file>image/iconCert.png</file>
+    </qresource>
+</RCC>
